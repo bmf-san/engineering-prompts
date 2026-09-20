@@ -15,7 +15,7 @@ description: 設計原則を新しく定めるときに使う。原則にする�
 
 - 対象領域（認証、データ基盤、API など）の設計方針をチームで揃えたいとき
 - 「レビュー指摘が人によって違う」「同じ設計論争を繰り返している」「相談が特定の人に集中する」を解きたいとき
-- 骨子をそのまま使いたいとき → [reference/template.md](reference/template.md)
+- 骨子と各節に何を書くかを知りたいとき → [reference/template.md](reference/template.md)
 
 ## 原則の性質
 
@@ -149,7 +149,7 @@ description: 設計原則を新しく定めるときに使う。原則にする�
 
 ## 参照
 
-- [reference/template.md](reference/template.md) — 設計原則の骨子テンプレートと記入時の注意
+- [reference/template.md](reference/template.md) — 設計原則のアウトラインと、各節に何を書くか（書くこと・判断の基準・書かないこと）
 
 ## 一次ソース
 
