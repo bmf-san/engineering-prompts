@@ -52,6 +52,7 @@ engineering-prompts/
 |---|---|
 | [technical-review](skills/technical-review/SKILL.md) | コード・設計文書の技術判断をレビューする観点と進め方 |
 | [adr](skills/adr/SKILL.md) | アーキテクチャ決定記録の原則とテンプレート |
+| [guideline-authoring](skills/guideline-authoring/SKILL.md) | ガイドライン・設計原則・規約の作り方とレビュー観点 |
 | [requirements-engineering](skills/requirements-engineering/SKILL.md) | 要件と制約の区別・要件レビュー・仕様テンプレート |
 | [architecture-strategy](skills/architecture-strategy/SKILL.md) | アーキテクチャ戦略・戦略レビュー |
 | [organization-design](skills/organization-design/SKILL.md) | チームの価値観（MVV）設計 |
