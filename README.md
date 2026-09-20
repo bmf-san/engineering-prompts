@@ -40,7 +40,7 @@
 engineering-prompts/
 ├── skills/            # 各 skill を格納
 │   └── <name>/
-│       ├── SKILL.md   # 必須。概要・いつ使うか・判断基準・手順・一次ソース
+│       ├── SKILL.md   # 必須。概要・いつ使うか・判断基準・手順
 │       └── reference/ # 任意。詳細・具体値・テンプレート・チェックリスト
 ├── AGENTS.md          # エージェント向けの作業ガイド
 └── README.md
@@ -52,6 +52,8 @@ engineering-prompts/
 |---|---|
 | [technical-review](skills/technical-review/SKILL.md) | コード・設計文書の技術判断をレビューする観点と進め方 |
 | [adr](skills/adr/SKILL.md) | アーキテクチャ決定記録の原則とテンプレート |
+| [guideline-authoring](skills/guideline-authoring/SKILL.md) | ガイドライン（活動の進め方）の策定プロセス |
+| [design-principles](skills/design-principles/SKILL.md) | 設計原則（評価の基準）の策定プロセス |
 | [requirements-engineering](skills/requirements-engineering/SKILL.md) | 要件と制約の区別・要件レビュー・仕様テンプレート |
 | [architecture-strategy](skills/architecture-strategy/SKILL.md) | アーキテクチャ戦略・戦略レビュー |
 | [organization-design](skills/organization-design/SKILL.md) | チームの価値観（MVV）設計 |
@@ -87,13 +89,14 @@ description: <何をする skill か＋いつ使うか。冒頭に主用途、�
 ```
 
 - フロントマターは `name` と `description` の 2 つだけ。
-- 出典は本文末尾の「一次ソース」節に置く。
+- 出典があるときは本文末尾の「一次ソース」節に置く。
 
 ### SKILL.md の書き方
 
-- 冒頭に概要と「いつ使うか」。続けて判断基準・手順。末尾に「一次ソース」。
+- 冒頭に概要と「いつ使うか」。続けて判断基準・手順。
 - **500 行以内**を目安とし、詳細・具体値・テンプレート・チェックリストは `reference/*.md` へ逃がす。
 - 手順は「やること」を番号付き、「守ること」を箇条書きで書く。
 - 日本語は直書きする（ユニコードエスケープを使わない）。
+- 特定の出典から導いた skill は、末尾に「一次ソース」節を置く。実務から抽象化した skill には置かない（後付けで並べると出典を偽ることになる）。
 
 標準書式（`name` + `description`）の検証ゲートは持たず、人手・エージェントで守る。エージェント向けの作業手順は [AGENTS.md](AGENTS.md) を参照。
