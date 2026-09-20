@@ -13,5 +13,5 @@
 
 - [ ] skill は `skills/<name>/SKILL.md` に置き、`name` はディレクトリ名と一致している
 - [ ] `description` に「何をするか」と「いつ使うか」を書いた（トリガー語を含む）
-- [ ] SKILL.md は概要・判断基準・手順・一次ソースで構成し、詳細は `reference/` に逃がした
+- [ ] SKILL.md は概要・判断基準・手順で構成し、詳細は `reference/` に逃がした
 - [ ] skill 名は単一の凝集した概念で、`A-and-B` の連結になっていない
