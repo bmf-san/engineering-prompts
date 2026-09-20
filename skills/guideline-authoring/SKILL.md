@@ -141,9 +141,3 @@ description: ガイドライン（判断や作業の進め方を定める手引�
 ## 参照
 
 - [reference/template.md](reference/template.md) — ガイドラインのアウトラインと、各節に何を書くか（書くこと・判断の基準・書かないこと）
-
-## 一次ソース
-
-- https://csrc.nist.gov/pubs/sp/800/30/r1/final — NIST SP 800-30 Rev.1（確立した骨格を借りて自チームの手順に写す例）
-- https://sre.google/sre-book/monitoring-distributed-systems/ — Google SRE（症状ベースの観点を借りる例）
-- https://developers.google.com/tech-writing — 曖昧語の排除、一文一義
