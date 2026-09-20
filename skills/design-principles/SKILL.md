@@ -155,4 +155,3 @@ description: 設計原則を新しく定めるときに使う。原則にする�
 
 - https://www.iso.org/standard/78176.html — ISO/IEC 25010:2023 製品品質モデル（品質特性の定義）
 - https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 — 特性・副特性の一覧
-- https://adr.github.io/ — 個別決定の記録との使い分け
