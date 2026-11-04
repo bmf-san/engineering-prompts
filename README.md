@@ -58,6 +58,7 @@ engineering-prompts/
 | [architecture-strategy](skills/architecture-strategy/SKILL.md) | アーキテクチャ戦略・戦略レビュー |
 | [organization-design](skills/organization-design/SKILL.md) | チームの価値観（MVV）設計 |
 | [technical-writing](skills/technical-writing/SKILL.md) | 文章・ドキュメントの執筆とレビュー |
+| [fact-verification](skills/fact-verification/SKILL.md) | 主張を根拠と一次ソースに当たり直して確かめる裏取り・敵対的検証 |
 
 ## 規約
 
