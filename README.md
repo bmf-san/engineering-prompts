@@ -57,6 +57,7 @@ engineering-prompts/
 | [requirements-engineering](skills/requirements-engineering/SKILL.md) | 要件と制約の区別・要件レビュー・仕様テンプレート |
 | [architecture-strategy](skills/architecture-strategy/SKILL.md) | アーキテクチャ戦略・戦略レビュー |
 | [event-storming](skills/event-storming/SKILL.md) | ドメインイベントを時系列に並べ、業務の流れ・ルール・境界を見つける |
+| [strategic-design](skills/strategic-design/SKILL.md) | サブドメインをコア・支援・汎用に分類し、投資と境界づけられたコンテキストの関係を決める |
 | [organization-design](skills/organization-design/SKILL.md) | チームの価値観（MVV）設計 |
 | [technical-writing](skills/technical-writing/SKILL.md) | 文章・ドキュメントの執筆とレビュー |
 | [fact-verification](skills/fact-verification/SKILL.md) | 主張を根拠と一次ソースに当たり直して確かめる裏取り・敵対的検証 |
