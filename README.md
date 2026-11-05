@@ -59,6 +59,10 @@ engineering-prompts/
 | [organization-design](skills/organization-design/SKILL.md) | チームの価値観（MVV）設計 |
 | [technical-writing](skills/technical-writing/SKILL.md) | 文章・ドキュメントの執筆とレビュー |
 | [fact-verification](skills/fact-verification/SKILL.md) | 主張を根拠と一次ソースに当たり直して確かめる裏取り・敵対的検証 |
+| [talk-preparation](skills/talk-preparation/SKILL.md) | 社外イベントの登壇を、イベントの把握からスライド構成・想定問答まで準備する |
+| [cfp-writing](skills/cfp-writing/SKILL.md) | 登壇の提案（CFP）を、ネタを文章にしてから採択する側が判断できる形で書く |
+| [logical-thinking](skills/logical-thinking/SKILL.md) | 主張と根拠、構造化、抽象化と具体化で、考えを組み立てて点検する |
+| [problem-framing](skills/problem-framing/SKILL.md) | 現象・問題・原因・課題を分け、答えの出せる問いと解く順番を決める |
 
 ## 規約
 
