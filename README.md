@@ -52,8 +52,8 @@ engineering-prompts/
 |---|---|
 | [technical-review](skills/technical-review/SKILL.md) | コード・設計文書の技術判断をレビューする観点と進め方 |
 | [adr](skills/adr/SKILL.md) | アーキテクチャ決定記録の原則とテンプレート |
-| [guideline-authoring](skills/guideline-authoring/SKILL.md) | ガイドライン（活動の進め方）の策定プロセス |
-| [design-principles](skills/design-principles/SKILL.md) | 設計原則（評価の基準）の策定プロセス |
+| [guideline-authoring](skills/guideline-authoring/SKILL.md) | ガイドライン（活動の進め方）を、境界・フロー・判断の軸・関係者・ケーススタディで作る |
+| [design-principles](skills/design-principles/SKILL.md) | 原則（価値基準の優先順位と、領域の技術基準）を、接地先・収録基準・適用例で作る |
 | [requirements-engineering](skills/requirements-engineering/SKILL.md) | 要件と制約の区別・要件レビュー・仕様テンプレート |
 | [architecture-strategy](skills/architecture-strategy/SKILL.md) | アーキテクチャ戦略・戦略レビュー |
 | [event-storming](skills/event-storming/SKILL.md) | ドメインイベントを時系列に並べ、業務の流れ・ルール・境界を見つける |
