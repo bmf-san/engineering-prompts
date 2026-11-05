@@ -13,7 +13,7 @@ description: 考えや文章を、主張と根拠のつながりで組み立て�
 - 文章や資料の筋が通っているかを点検するとき
 - 「何が言いたいのか分からない」「説得力がない」と言われたとき
 
-分け方と並べ方は `structuring`、共通点を抜き出して型にするところは `abstraction`、何を解くかを決めるところは `problem-framing`、根拠が事実として正しいかは `fact-verification`、文章の表現は `technical-writing` を使う。
+分け方と並べ方は `structuring`、共通点を抜き出して型にするところは `abstraction`、何を解くかを決めるところは `problem-framing`、根拠が事実として正しいかは `fact-verification`、他人の主張や自分の判断をそのまま受け入れてよいかは `critical-thinking`、文章の表現は `technical-writing` を使う。
 
 ## 1. 問いを確かめる
 
