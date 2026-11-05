@@ -65,6 +65,7 @@ engineering-prompts/
 | [talk-preparation](skills/talk-preparation/SKILL.md) | 社外イベントの登壇を、イベントの把握からスライド構成・想定問答まで準備する |
 | [cfp-writing](skills/cfp-writing/SKILL.md) | 登壇の提案（CFP）を、ネタを文章にしてから採択する側が判断できる形で書く |
 | [logical-thinking](skills/logical-thinking/SKILL.md) | 問いに対する主張を言い切り、根拠とのつながりと隠れた前提を点検する |
+| [critical-thinking](skills/critical-thinking/SKILL.md) | 主張・提案・自分の判断を、証拠の強さと別の説明から吟味し、どこまで信じるかを決める |
 | [structuring](skills/structuring/SKILL.md) | 目的に合った軸で漏れと重なりなく分け、階層と粒度をそろえて並べる |
 | [abstraction](skills/abstraction/SKILL.md) | 具体例から型を取り出し（抽象化・汎用化）、抽象的な言葉を具体に戻す |
 | [systems-thinking](skills/systems-thinking/SKILL.md) | 原因と結果が循環する問題を、ループと遅れの構造で捉えて効く場所を選ぶ |
