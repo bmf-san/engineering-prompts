@@ -69,6 +69,9 @@ engineering-prompts/
 | [abstraction](skills/abstraction/SKILL.md) | 具体例から型を取り出し（抽象化・汎用化）、抽象的な言葉を具体に戻す |
 | [systems-thinking](skills/systems-thinking/SKILL.md) | 原因と結果が循環する問題を、ループと遅れの構造で捉えて効く場所を選ぶ |
 | [problem-framing](skills/problem-framing/SKILL.md) | 現象・問題・原因・課題を分け、答えの出せる問いと解く順番を決める |
+| [self-evaluation](skills/self-evaluation/SKILL.md) | 自己評価を、期初の達成基準と確かめた実績で下書きする |
+| [member-evaluation](skills/member-evaluation/SKILL.md) | 評価者としてメンバーを評価し、フィードバックとキャリブレーションの資料を作る |
+| [promotion-assessment](skills/promotion-assessment/SKILL.md) | 一つ上の等級の要件に照らして、昇格の推薦と判定の材料を作る |
 
 ## 規約
 
