@@ -61,7 +61,9 @@ engineering-prompts/
 | [fact-verification](skills/fact-verification/SKILL.md) | 主張を根拠と一次ソースに当たり直して確かめる裏取り・敵対的検証 |
 | [talk-preparation](skills/talk-preparation/SKILL.md) | 社外イベントの登壇を、イベントの把握からスライド構成・想定問答まで準備する |
 | [cfp-writing](skills/cfp-writing/SKILL.md) | 登壇の提案（CFP）を、ネタを文章にしてから採択する側が判断できる形で書く |
-| [logical-thinking](skills/logical-thinking/SKILL.md) | 主張と根拠、構造化、抽象化と具体化で、考えを組み立てて点検する |
+| [logical-thinking](skills/logical-thinking/SKILL.md) | 問いに対する主張を言い切り、根拠とのつながりと隠れた前提を点検する |
+| [structuring](skills/structuring/SKILL.md) | 目的に合った軸で漏れと重なりなく分け、階層と粒度をそろえて並べる |
+| [abstraction](skills/abstraction/SKILL.md) | 具体例から型を取り出し（抽象化・汎用化）、抽象的な言葉を具体に戻す |
 | [problem-framing](skills/problem-framing/SKILL.md) | 現象・問題・原因・課題を分け、答えの出せる問いと解く順番を決める |
 
 ## 規約
