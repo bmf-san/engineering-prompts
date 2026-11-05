@@ -64,6 +64,7 @@ engineering-prompts/
 | [logical-thinking](skills/logical-thinking/SKILL.md) | 問いに対する主張を言い切り、根拠とのつながりと隠れた前提を点検する |
 | [structuring](skills/structuring/SKILL.md) | 目的に合った軸で漏れと重なりなく分け、階層と粒度をそろえて並べる |
 | [abstraction](skills/abstraction/SKILL.md) | 具体例から型を取り出し（抽象化・汎用化）、抽象的な言葉を具体に戻す |
+| [systems-thinking](skills/systems-thinking/SKILL.md) | 原因と結果が循環する問題を、ループと遅れの構造で捉えて効く場所を選ぶ |
 | [problem-framing](skills/problem-framing/SKILL.md) | 現象・問題・原因・課題を分け、答えの出せる問いと解く順番を決める |
 
 ## 規約
